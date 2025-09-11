@@ -1,7 +1,9 @@
 package co.edu.poli.ejercicio1.model;
 
 import java.util.Arrays;
-
+/**
+ * @author wsoto
+ */
 public class Bicicleta {
 	
 	private String serial;
