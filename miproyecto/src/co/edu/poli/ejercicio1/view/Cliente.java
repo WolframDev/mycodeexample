@@ -35,8 +35,10 @@ public class Cliente {
 		Ejemplo e2 = new Ejemplo("s");
 		Ejemplo e3 = new Ejemplo("s","t");
 		
-
-		System.out.println("constante "+e3.val);
+		System.out.println("constante "+e1);
+		System.out.println("constante "+e2);
+		System.out.println("constante "+e3);
+		System.out.println("constante "+Ejemplo.val);
 		
 		
 	}
