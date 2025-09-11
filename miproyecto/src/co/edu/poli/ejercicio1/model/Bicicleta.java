@@ -2,7 +2,7 @@ package co.edu.poli.ejercicio1.model;
 
 import java.util.Arrays;
 /**
- * @author wsoto
+ * @author ws
  */
 public class Bicicleta {
 	
