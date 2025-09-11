@@ -1,5 +1,8 @@
 package co.edu.poli.ejercicio1.model;
 
+/**
+ * @author other
+ */
 public class TodoTerreno extends Bicicleta {
 
 	private String suspension;

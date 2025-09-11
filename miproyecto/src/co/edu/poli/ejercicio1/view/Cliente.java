@@ -4,7 +4,9 @@ import co.edu.poli.ejercicio1.model.Bicicleta;
 import co.edu.poli.ejercicio1.model.Ejemplo;
 import co.edu.poli.ejercicio1.model.Rueda;
 import co.edu.poli.ejercicio1.model.TodoTerreno;
-
+/**
+ * @autor wolfram
+ */
 public class Cliente {
 
 	public static void main(String[] args) {
