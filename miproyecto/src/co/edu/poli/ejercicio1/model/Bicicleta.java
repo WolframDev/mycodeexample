@@ -3,6 +3,7 @@ package co.edu.poli.ejercicio1.model;
 import java.util.Arrays;
 /**
  * @author ws
+ * Esta es la clase Bicicleta
  */
 public abstract class Bicicleta {
 	
