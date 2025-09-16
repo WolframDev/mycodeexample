@@ -18,5 +18,16 @@ public class Ejemplo {
 		this.s = s;
 		this.t = t;
 	}
-
+	
+	public double calcular1 (Bicicleta t) {
+		return t.determinarCadencia(3);
+	}
+	
+	public Bicicleta calcular2 (int x) {
+		if (x==0)
+			return new TodoTerreno(s, s, t, x, x, t, null, s);
+		else 
+			return new Carrera(s, s, t, x, x, t, null, s);
+	}
+	
 }
