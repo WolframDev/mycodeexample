@@ -5,7 +5,7 @@ import java.util.Arrays;
  * @author ws
  * Esta es la clase Bicicleta
  */
-public abstract class Bicicleta {
+public class Bicicleta {
 	
 	private String serial;
 	private String color;
