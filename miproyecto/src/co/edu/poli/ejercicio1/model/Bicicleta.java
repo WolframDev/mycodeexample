@@ -4,7 +4,7 @@ import java.util.Arrays;
 /**
  * @author ws
  */
-public class Bicicleta {
+public abstract class Bicicleta {
 	
 	private String serial;
 	private String color;
