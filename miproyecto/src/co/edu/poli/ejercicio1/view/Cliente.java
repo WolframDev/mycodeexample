@@ -74,6 +74,10 @@ public class Cliente {
 
 		TodoTerreno t1 = (TodoTerreno) b1;
 		t1.getSuspension();
+
+		Carrera c1 = (Carrera) b2;
+		c1.getRin();
+
 		
 	}
 
