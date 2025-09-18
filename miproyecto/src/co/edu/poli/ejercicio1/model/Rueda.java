@@ -1,5 +1,9 @@
 package co.edu.poli.ejercicio1.model;
 
+/**
+ * @author ws
+ * Esta es la clase Rueda
+ */
 public class Rueda {
 	
 	private String serial;
