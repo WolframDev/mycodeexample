@@ -1,9 +1,14 @@
 package co.edu.poli.ejercicio1.model;
 
+/**
+ * @author ws
+ * Esta es la clase Ejemplo
+ */
 public class Ejemplo {
 
 	String s;
 	String t;
+	//constante de clase
 	public static final int A = 1;
 	public static int val;
 	
